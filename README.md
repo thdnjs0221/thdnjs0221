@@ -44,7 +44,7 @@ Hi, I'm SoWon Kim
 <img src="https://img.shields.io/badge/Eclipse-007396?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/SQL Developer-006600?style=for-the-badge&logo=SQL Developer&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-F7DF1E?style=for-the-badge&logo=Maven&logoColor=white">
-<img src="https://img.shields.io/badge/StarUML,-E34F26?style=for-the-badge&logo=StarUML,&logoColor=white">
+<img src="https://img.shields.io/badge/StarUML-E34F26?style=for-the-badge&logo=StarUML&logoColor=white">
 <img src="https://img.shields.io/badge/exERD-FF9E0F?style=for-the-badge&logo=exERD&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-1572B6?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
 
