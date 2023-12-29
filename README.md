@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sowon%20Kim&fontSize=90)
+
 👋**About me**👋<br>
-Hi, I'm Sowon Kim
+Hi, I'm SoWon Kim
 ​<br>
 ​<br>
 ✅**Tech Stack**✅ <br>
